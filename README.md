@@ -1,10 +1,3 @@
-Hi, I'm Prayoga Boedihartoyo :wave:
-===================
-
-
-**Prayoga2882/Prayoga2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <h2 align="center">Hello there! My name is Prayoga Boedihartoyo. 👋🤓</h2>
 <p align="center">I'm currently a student pursuing my Bachelor of Technology in University of Technology from Yogyakarta (UTY). I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. I also learning more about Backend Developer with Go Technology
