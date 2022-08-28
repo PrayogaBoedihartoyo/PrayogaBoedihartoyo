@@ -1,9 +1,7 @@
 Hi, I'm Prayoga Boedihartoyo :wave:
 ===================
 
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
-<!--
 **Prayoga2882/Prayoga2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +13,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://www.linkedin.com/in/prayoga-boedihartoyo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/praa28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
 </p>
--->
 
 
 <br>
@@ -23,6 +20,6 @@ Here are some ideas to get you started:
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+
   
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
