@@ -8,15 +8,15 @@ Hi, I'm Prayoga Boedihartoyo :wave:
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Volantis Technology
-- 📫 How to reach me: @praa28 www.linkedin.com/in/prayoga-boedihartoyo
+<h2 align="center">Hello there! My name is Prayoga Boedihartoyo. 👋🤓</h2>
+<p align="center">I'm currently a student pursuing my Bachelor of Technology in University of Technology from Yogyakarta (UTY). I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. I also learning more about Backend Developer with Go Technology
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/prayoga-boedihartoyo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/praa28/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+</p>
 -->
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Golang" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Golang/Golang-original.svg" style="padding-right:10px;" />
 
 <br>
 <br>
