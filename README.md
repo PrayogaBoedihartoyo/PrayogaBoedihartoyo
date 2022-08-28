@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
 <!--
 **Prayoga2882/Prayoga2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
 ```
 </h4>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
