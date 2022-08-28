@@ -8,7 +8,7 @@
 </p>
 
 <!-- Talking about you -->
-*Talking about Personal Stuffs:*
+<h3 align="left">Talking about Personal Stuffs:</h3>
 
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
