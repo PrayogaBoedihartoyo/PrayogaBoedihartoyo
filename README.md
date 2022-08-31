@@ -13,8 +13,8 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on Volantis Technology;
-- 🌱 I’m currently learning about everything and Continuous ; 
+- 👨🏽‍💻 I’m currently working at Volantis Technology;
+- 🌱 I’m currently learning about everything; 
 - 🤔 I’m looking for help with Design Pattern 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a degree in civil engineering;
