@@ -15,7 +15,7 @@
 
 - 👨🏽‍💻 I’m currently working at Volantis Technology.
 - 🌱 I’m currently learning about everything. 
-- 🤔 I’m looking for help with how to be not useless
+- 🤔 I’m looking for help with how to be not useless.
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I have a degree in civil engineering
 - 📫 How to reach me: praayoga28@gmail.com
