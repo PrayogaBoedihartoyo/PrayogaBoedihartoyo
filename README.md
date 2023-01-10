@@ -26,10 +26,10 @@
 <br>
 
 
-<br>
+<!-- <br> -->
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
+<!-- <p align="center"> -->
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"> -->
 
   
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%"> -->
