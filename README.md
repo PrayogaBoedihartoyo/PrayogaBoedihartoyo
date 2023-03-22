@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello there! My name is Prayoga Boedihartoyo. 👋🤓</h2>
-<p align="center">I'm currently a student pursuing my Bachelor of Technology in from Yogyakarta. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. I have also participated in several competitions and organizational activities on campus, eve now I am still involved in that. in several cases in lectures and outside lectures and. Passionate about AI(Actificial Intelegent) and i've make so project for detection object. Currently i'm working as Backend Engineer with Golang and Python Technology..
+<p align="center">I'm currently a backend developer from Lampung. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. I have also participated in several competitions and organizational activities on campus, eve now I am still involved in that. in several cases in lectures and outside lectures and. Passionate about AI(Actificial Intelegent) and i've make so project for detection object. Currently i'm working as Backend Engineer with Golang and Python Technology..
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working at Volantis Technology.
+- 👨🏽‍💻 I’m currently working at nothing.
 - 🌱 I’m currently learning about everything.
 - 🤔 I’m looking for help with how to be not useless.
 - 💬 Ask me about anything, I am happy to help.
