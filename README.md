@@ -1,7 +1,7 @@
 
 <h2 align="center">Hello there! My name is Prayoga Boedihartoyo. 👋🤓</h2>
 <p align="center">hello, I'm a backend developer with in Machine Learning and Programming.
-I have also participated in several competitions and organizational activities on campus, eve now I am still involved in that. in several cases in lectures and outside lectures and I often solve cases that I upload to gitlab. I passionate about AI(Actificial Intelegent) and i've make so project for detection object. So now i'm working as Backend with Golang and Python Technology.
+I have also participated in several competitions and organizational activities on campus, eve now I am still involved in that. in several cases in lectures and outside lectures and I often solve cases that I upload to gitlab and github. I passionate about AI(Actificial Intelegent) and i've make so project for detection object. So now i'm working as Backend with Golang and Python Technology.
 </p>
 
 <p align="center">
